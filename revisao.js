@@ -1,4 +1,4 @@
-/*Equipe: David Santos 
+/*Equipe 3 : David Santos 
 Gabriel Ramos Felipe
 Karla Santos 
 Railson Uchoa*/
